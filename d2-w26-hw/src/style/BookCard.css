@@ -1,0 +1,16 @@
+
+
+.book-card{
+    background-color: pink;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 15px;
+    width: 300px;
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;  
+}
