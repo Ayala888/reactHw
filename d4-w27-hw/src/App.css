@@ -1,0 +1,36 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1, h2{
+  text-align: center;
+}
+
+button{
+  background-color: DodgerBlue;
+  border: none;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+}
+
+
+li{
+  list-style: none;
+  margin: 5px 0;
+  border-bottom: 1px solid #ccc;
+  padding: "5px 0" 
+}
+
+ul{
+  background-color: snow;
+  border-radius: 10px;
+  padding: 10px;
+  width: 250px;
+  box-shadow: 2px 1px 10px -1px rgba(13,9,13,1);
+  margin-left: 100px;
+}
